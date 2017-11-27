@@ -19,3 +19,6 @@ See that the removal of `let's have a break` is in this hunk too.
 - Diff the staged and unstaged changes
 
 See how the `let's have a break` line is not staged, even though it appeared to be part of the first hunk that was staged.
+
+![image](https://user-images.githubusercontent.com/1429026/33265723-a7bcbdfc-d36a-11e7-81d4-9f31d2475382.png)
+
